@@ -6,7 +6,7 @@
 	<groupId>Grupo6_TMingueso</groupId>
 	<artifactId>Tingeso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Tingeso</name>
 	<description>Demo project for Spring Boot</description>
